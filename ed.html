@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>WebSocket demo</title>
+    </head>
+    <body>
+        <script>
+            	var ws = new WebSocket("ws://127.0.0.1:5678/");
+		ws.send('teste');
+		ws.onmessage = (data) => console.log(data);
+        </script>
+    </body>
+</html>

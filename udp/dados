@@ -1,0 +1,40 @@
+dicionario = {
+    "ras_eve_id_indice" : "",
+    "ras_eve_cli_id" : "",
+    "ras_eve_aut_id" : "",
+    "ras_eve_mot_id" : "",
+    "ras_eve_ras_id" : "",
+    "ras_eve_hodometro" : "",
+    "ras_eve_horimetro" : "",
+    "ras_eve_porc_bat_backup" : "",
+    "ras_eve_direcao" : "",
+    "ras_eve_satelites" : "",
+    "ras_eve_ignicao" : "",
+    "ras_eve_gps_status" : "",
+    "ras_eve_gprs_status" : "",
+    "ras_eve_validade" : "",
+    "ras_eve_data_gps" : "",
+    "ras_eve_data_enviado" : "",
+    "ras_eve_data_servidor" : "",
+    "ras_eve_velocidade" : "",
+    "ras_eve_voltagem" : "" ,
+    "ras_eve_voltagem_backup" : "" ,
+    "ras_eve_alertas" : [] ,
+    "ras_eve_input" : [],
+    "ras_eve_output" : [],
+    "loc" : []
+}
+
+
+        for e in dados:
+            if dados_quebrados[0] == e:
+                if type(e) == list:
+                    vetor = []
+                    info = dados_quebrados[1].copy
+                    info= info[1:len(dados_quebrados) - 1]
+                    info= info.split(",")
+                    for i in range(info):
+                        vetor.append = int(info[i])
+                    dados[e] = vetor
+                else:
+                    dados[e] = dados_quebrados[1]

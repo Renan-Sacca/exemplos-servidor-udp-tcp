@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4590277-2208-47a1-b44f-6106425f70bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/backend_codebase/python/base_gateways/parser/concox/crx3.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend_codebase/python/base_gateways/parser/concox/crx3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend_codebase/python/base_gateways/parser/concox/gt300.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend_codebase/python/base_gateways/parser/concox/gt300.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend_codebase" />
+  </component>
+  <component name="ProjectId" id="1W7dYFQgB5inFXcADkgF7ouUuds" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Projeto01" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4590277-2208-47a1-b44f-6106425f70bc" name="Default Changelist" comment="" />
+      <created>1578504612311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578504612311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578517456688">
+      <screen x="0" y="0" width="1366" height="739" />
+    </state>
+    <state x="141" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.739@0.0.1366.739" timestamp="1578517456688" />
+    <state x="466" y="127" width="426" height="479" key="FileChooserDialogImpl" timestamp="1584969132120">
+      <screen x="0" y="0" width="1366" height="739" />
+    </state>
+    <state x="466" y="127" width="426" height="479" key="FileChooserDialogImpl/0.0.1366.739@0.0.1366.739" timestamp="1584969132120" />
+    <state x="376" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1584968660452">
+      <screen x="0" y="0" width="1366" height="739" />
+    </state>
+    <state x="376" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.739@0.0.1366.739" timestamp="1584968660452" />
+  </component>
+</project>

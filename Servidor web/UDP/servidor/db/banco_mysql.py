@@ -2,7 +2,7 @@ import mysql.connector
 import redis
 def banco_mysql(dados,aparelho):
     #Conexão banco
-    db_connection = mysql.connector.connect(host='mysql-dev.vrg.ftrack.me', user='ftrk_site', password='yh7GzoFT', database='rastreador')
+    db_connection = mysql.connector.connect(host='', user='', password='', database='')
     cursor = db_connection.cursor()
     #Conexão redis usar posteriormente para inserir dados obtidos do mysql
     r = redis.Redis(host="localhost", port=6379)
